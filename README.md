@@ -1,6 +1,6 @@
 # Deep Learning with Pytorch
 
-This is some experience with Pytorch on mainly image classification using Deep Neural Network, Convolutional Neural Network and transfer learning. Also, a style transfer from one image to another is completed using VGG19 model. An example of the work is show below:
+This is some experience with Pytorch on mainly image classification using **Deep Neural Network**, **Convolutional Neural Network** and **Transfer Learning on AlexNet and VGG16**. Also, a style transfer from one image to another is completed using VGG19 model. An example of the work is show below:
 
 <img src="https://github.com/xpada001/DL_PyTorch/blob/main/Images_style_transfer/City.jpg" width="30%"> <img src="https://github.com/xpada001/DL_PyTorch/blob/main/Images_style_transfer/StarryNight.jpg" width="30%"><img src="https://github.com/xpada001/DL_PyTorch/blob/main/styled_city.png" width="30%">
 
